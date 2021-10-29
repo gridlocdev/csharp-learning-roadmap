@@ -2,9 +2,11 @@
 
 > This set of steps assumes that you have knowledge of the fundamentals of programming languages, and based on that knowledge provides guidance on how to learn the features of the C# language. 
 
+C# is a programming language developed by Microsoft that is closely tied with the .NET (dotnet) ecosystem. This list focuses on the C# language side of the ecosystem, specifically focusing on language features. For a more high-level .NET-based roadmap I would recommend the one by MoienTajik here: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap. (If you wanted to, you could even run through his guide and run through this one on the "C#"
+
 Here is a relative list of concepts to learn that should give you a solid grasp on the main features of the C# programming language. 
 
-1. Review the C# 6 language spec, which is a pretty great starting point for most of the the main C# language features:
+1. Review the the C# 6 language spec, which is a fantastic starting point for most of the the main C# language features:
    - [C# 6.0 Language Draft Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction)
 2. Go through the following three fundamentals sections in the "Concepts" section of the [C# Docs](https://docs.microsoft.com/en-us/dotnet/csharp/):
    - [The C# and .NET type system](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)
@@ -16,7 +18,7 @@ Here is a relative list of concepts to learn that should give you a solid grasp 
    - [Language Integrated Query (LINQ)](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
    - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
    - [Object and Collection Initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
-   - [Named and Optional Arguments](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/named-and-optional-arguments)
+   - [(Optional) Named and Optional Arguments](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/named-and-optional-arguments)
 4. Go through some of the notable symbolic syntactic sugar in C#:
    - [The lambda operator `=>`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator) 
    - [Nullable Value Types `?`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types)
