@@ -2,7 +2,7 @@
 
 > This set of steps assumes that you have knowledge of the fundamentals of programming languages, and based on that knowledge provides guidance on how to learn the features of the C# language. 
 
-C# is a programming language developed by Microsoft that is closely tied with the .NET (dotnet) ecosystem. This list focuses on the C# language side of the ecosystem, specifically focusing on language features. For a more high-level .NET-based roadmap I would recommend the one by MoienTajik here: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap. (If you wanted to, you could even run through his guide and run through this one on the "C#"
+C# is a powerful and flexible programming language developed by Microsoft that is closely tied with the .NET (dotnet) ecosystem. This list focuses on the C# language side of the ecosystem, specifically focusing on language features. For a more high-level .NET Core based roadmap I would recommend the one by MoienTajik here: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap. (If you wanted to, you could run through his guide and when you get to the "C#" section, you could look through this one)
 
 Here is a relative list of concepts to learn that should give you a solid grasp on the main features of the C# programming language. 
 
