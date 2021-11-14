@@ -48,7 +48,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - Tasks and Threads
   - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
   - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
-  - Functional Techniques
+  - (Optional) Functional Techniques
     - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
     - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
     - [Deconstructing Tuples](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct)
