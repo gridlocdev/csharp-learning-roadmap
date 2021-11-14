@@ -1,34 +1,85 @@
-# csharp-learning-roadmap
+# C# and .NET Roadmap for Beginners
 
-> This set of steps assumes that you have knowledge of the fundamentals of programming languages, and based on that knowledge provides guidance on how to learn the features of the C# language. 
+This document contains a simplified list of concepts to guide new developers through learning the basics of the C# and .NET ecosystem.
 
-C# is a powerful and flexible programming language developed by Microsoft that is closely tied with the .NET (dotnet) ecosystem. This list focuses on the C# language side of the ecosystem, specifically focusing on language features. For a more high-level .NET Core based roadmap I would recommend the one by MoienTajik here: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap. (If you wanted to, you could run through his guide and when you get to the "C#" section, you could look through this one)
+## C#
 
-Here is a relative list of concepts to learn that should give you a solid grasp on the main features of the C# programming language. 
+- Learn the Fundamentals
+  - Basic Syntax
+  - Variables and Data Types
+    - String
+    - Int
+    - Double/Float/Decimal
+    - Boolean
+    - Var
+  - [Conditionals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
+  - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
+  - [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces)
+  - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
+    - Array
+    - List
+    - Dictionary
+  - [Iterators](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)
+  - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
+  - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)
+- Object-Oriented Programming
+  - Three Pillars
+    - [Encapsulation](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
+      - Classes
+      - Structs
+      - Records
+    - [Inheritance](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance)
+      - Interfaces
+      - Abstract classes
+    - [Polymorphism](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
+  - [Access Levels](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
+    - Public
+    - Private
+    - Internal
+    - Protected
+- Going Deeper
+  - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
+  - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
+  - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+    - Lambda operator expressions
+    - Arrow functions
+  - [Asynchronous Programming](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+    - Async/await
+    - Tasks and Threads
+  - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
+  - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
+  - Functional Techniques
+    - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
+    - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
+    - [Deconstructing Tuples](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct)
 
-1. Review the the C# 6 language spec, which is a fantastic starting point for most of the the main C# language features:
-   - [C# 6.0 Language Draft Specification](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction)
-2. Go through the following three fundamentals sections in the "Concepts" section of the [C# Docs](https://docs.microsoft.com/en-us/dotnet/csharp/):
-   - [The C# and .NET type system](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)
-   - [Anonymous types (using the 'var' keyword)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
-   - [async and await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-3. Go through some more widely used features of C#:
-   - [Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members)
-   - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
-   - [Language Integrated Query (LINQ)](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
-   - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
-   - [Object and Collection Initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
-   - [(Optional) Named and Optional Arguments](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/named-and-optional-arguments)
-4. Go through some of the notable symbolic syntactic sugar in C#:
-   - [The lambda operator `=>`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator) 
-   - [Nullable Value Types `?`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types)
-   - [(Optional) The `?:` operator and Ternary statements](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/conditional-operator)
-   - [(Optional) The null-coalescing operator `??`](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator)
-   - [(Optional) The `when` keyword](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/when)
-5. Go through these more recently added language features
-   - [Records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#record-types)
-   - [Top-level statements](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements)
-   - [Readonly members](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8#readonly-members)
-   - [Init-only setters](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters)
-   - [Indices and ranges](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8#indices-and-ranges)
-   - [Pattern matching](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7#pattern-matching)
+## .NET (Web Developer)
+
+- Understanding the Ecosystem
+  - .NET Framework
+  - .NET Standard
+  - .NET (Core)
+- Tooling
+  - [.NET CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/)
+  - NuGet
+- .NET (Core) Web Projects
+  - Blazor WebAssembly
+  - Minimal Web API
+  - Web API
+  - Razor Pages
+  - Blazor Server
+  - MVC
+- Libraries
+  - ORM
+    - Entity Framework, Dapper
+  - Testing
+    - Unit Testing
+      - xUnit, NUnit, MSTest
+    - [Performance Testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests?view=aspnetcore-6.0)
+    - E2E Testing
+      - Selenium
+  - Logging
+    - NLog, Serilog
+  - Other
+    - AutoMapper 
+    - Swashbuckle / Swagger
