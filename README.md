@@ -10,18 +10,18 @@ This document contains a simplified list of concepts to guide new developers thr
 
 - Learn the Fundamentals
   - Basic Syntax
-  - Variables and Data Types
-    - String
-    - Int
-    - Double/Float/Decimal
-    - Boolean
+  - [Variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables) and [Data Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+    - [String](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
+    - [Int](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
+    - [Boolean](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool)
+    - [Float/Double/Decimal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
     - [Var](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
   - [Conditionals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
   - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
   - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
-    - Array
-    - List
-    - Dictionary
+    - [Array](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
+    - [List](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1)
+    - [Dictionary](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2)
   - [Iterators](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)
   - [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces) and [Using directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive)
   - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
@@ -30,32 +30,32 @@ This document contains a simplified list of concepts to guide new developers thr
   - Three Pillars
     - [Encapsulation](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
       - [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
-      - Structs
+      - [Structs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct)
       - [Records](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records)
     - [Inheritance](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance)
       - [Interfaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
-      - Abstract classes
+      - [Abstract classes](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract)
     - [Polymorphism](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
-      - Virtual
-      - Override
-      - Base Constructor
-  - [Access Levels](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
-    - Public
-    - Private
-    - Internal
-    - Protected
+      - [Virtual](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual)
+      - [Override](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override)
+      - [Using Base Classes](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base)
+  - [Access Modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
+    - [Public](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public)
+    - [Private](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/private)
+    - [Internal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal)
+    - [Protected](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected)
 - Going Deeper
   - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
   - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
-    - Lambda operator expressions
-    - Arrow functions
+    - ["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)
+    - [Arrow Functions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
   - [Asynchronous Programming](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
-    - Async/await
-    - Tasks and Threads
+    - [Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async) and [Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)
+    - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/) and [Threads](https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading)
+  - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
   - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
   - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
-  - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
   - (Optional) Functional Techniques
     - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
     - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
@@ -89,5 +89,5 @@ This document contains a simplified list of concepts to guide new developers thr
   - Logging
     - NLog, Serilog
   - Other
-    - AutoMapper 
+    - AutoMapper
     - Swashbuckle / Swagger
