@@ -15,7 +15,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - Int
     - Double/Float/Decimal
     - Boolean
-    - Var
+    - [Var](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
   - [Conditionals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
   - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
   - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
@@ -29,11 +29,11 @@ This document contains a simplified list of concepts to guide new developers thr
 - Object-Oriented Programming
   - Three Pillars
     - [Encapsulation](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
-      - Classes
+      - [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
       - Structs
-      - Records
+      - [Records](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records)
     - [Inheritance](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance)
-      - Interfaces
+      - [Interfaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
       - Abstract classes
     - [Polymorphism](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
       - Virtual
@@ -55,6 +55,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - Tasks and Threads
   - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
   - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
+  - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
   - (Optional) Functional Techniques
     - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
     - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
