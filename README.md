@@ -14,12 +14,12 @@ This document contains a simplified list of concepts to guide new developers thr
     - Var
   - [Conditionals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
   - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
-  - [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces)
   - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
     - Array
     - List
     - Dictionary
   - [Iterators](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)
+  - [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces) and [`Using` directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive)
   - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
   - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)
 - Object-Oriented Programming
