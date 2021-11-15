@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T23:25:41.039Z" agent="5.0 (X11)" etag="j-vkeBTAfObZuSTNEUtm" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T23:27:45.368Z" agent="5.0 (X11)" etag="pe0ymj5mpy-FnzCb3Upx" version="15.7.3" type="github">
   <diagram id="Bi8yQc8i4gSCwa7ISA3M" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
         <mxCell id="lwvj8f8YE6O9QnCj63W--15" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types&quot;&gt;String&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
           <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--16" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types&quot;&gt;Float/Double/Decimal&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+        <mxCell id="lwvj8f8YE6O9QnCj63W--16" value="&lt;div&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types&quot;&gt;Float/Double&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types&quot;&gt;/Decimal&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
           <mxGeometry x="120" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lwvj8f8YE6O9QnCj63W--17" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool&quot;&gt;Boolean&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
