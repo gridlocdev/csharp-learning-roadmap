@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T23:18:48.208Z" agent="5.0 (X11)" etag="LuW9TuY8UXzNOXH0xAGM" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T23:25:41.039Z" agent="5.0 (X11)" etag="j-vkeBTAfObZuSTNEUtm" version="15.7.3" type="github">
   <diagram id="Bi8yQc8i4gSCwa7ISA3M" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -165,23 +165,23 @@
           <mxGeometry x="80" y="880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-12" value="Lambdas" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="935" width="160" height="150" as="geometry" />
+          <mxGeometry x="10" y="935" width="230" height="95" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-13" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions&quot;&gt;Arrow Functions&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-12" vertex="1">
-          <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-14" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator&quot;&gt;&quot;=&amp;gt;&quot; Operator&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-12" vertex="1">
-          <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Asynchronous &#xa;Programming" link="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/" id="TVtdVuU6rrKW41aySdb2-16">
           <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;startSize=40;" parent="1" vertex="1">
             <mxGeometry x="600" y="830" width="240" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TVtdVuU6rrKW41aySdb2-17" value="Tasks and Threads" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-16" vertex="1">
+        <mxCell id="TVtdVuU6rrKW41aySdb2-17" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/&quot;&gt;Tasks&lt;/a&gt; and &lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading&quot;&gt;Threads&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-16" vertex="1">
           <mxGeometry x="125" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TVtdVuU6rrKW41aySdb2-18" value="Async/Await" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-16" vertex="1">
+        <mxCell id="TVtdVuU6rrKW41aySdb2-18" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async&quot;&gt;Async&lt;/a&gt; / &lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await&quot;&gt;Await&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-16" vertex="1">
           <mxGeometry x="15" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-21" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/&quot;&gt;Serialization&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
