@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T22:51:32.150Z" agent="5.0 (X11)" etag="Bhp7oRVAgX6FW-rDjjsg" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T23:08:19.036Z" agent="5.0 (X11)" etag="nVAxA_6jF5GdpVw93qR3" version="15.7.3" type="github">
   <diagram id="Bi8yQc8i4gSCwa7ISA3M" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,10 +9,10 @@
             <mxPoint x="311" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HOgNb5vJPWKjZWPz9B7e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="lwvj8f8YE6O9QnCj63W--13" edge="1">
+        <mxCell id="HOgNb5vJPWKjZWPz9B7e-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="lwvj8f8YE6O9QnCj63W--41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="311" y="150" as="sourcePoint" />
-            <mxPoint x="240" y="150" as="targetPoint" />
+            <mxPoint x="250" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="HOgNb5vJPWKjZWPz9B7e-5" edge="1">
@@ -24,9 +24,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="311" y="150" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HOgNb5vJPWKjZWPz9B7e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="HOgNb5vJPWKjZWPz9B7e-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="HOgNb5vJPWKjZWPz9B7e-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,8 +37,11 @@
         <mxCell id="lwvj8f8YE6O9QnCj63W--19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="HOgNb5vJPWKjZWPz9B7e-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="lwvj8f8YE6O9QnCj63W--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Learn the Fundamentals&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="240" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="270" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-2" target="HOgNb5vJPWKjZWPz9B7e-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,19 +59,16 @@
           <mxGeometry x="161" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-7" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces&quot;&gt;Namespaces&lt;/a&gt; and &lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive&quot;&gt;`Using` directives&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="230" width="141" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HOgNb5vJPWKjZWPz9B7e-8" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections&quot;&gt;Collections&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="130" width="91" height="40" as="geometry" />
+          <mxGeometry x="600" y="390" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-9" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators&quot;&gt;Iterators&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="180" width="71" height="40" as="geometry" />
+          <mxGeometry x="600" y="340" width="71" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-10" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated&quot;&gt;String Interpolation&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="280" width="141" height="40" as="geometry" />
+          <mxGeometry x="600" y="440" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-11" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling&quot;&gt;Exception Handling&lt;/a&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="600" y="330" width="151" height="40" as="geometry" />
+          <mxGeometry x="600" y="490" width="151" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-1" target="HOgNb5vJPWKjZWPz9B7e-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -91,15 +88,15 @@
         <mxCell id="TVtdVuU6rrKW41aySdb2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="HOgNb5vJPWKjZWPz9B7e-27" target="TVtdVuU6rrKW41aySdb2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="HOgNb5vJPWKjZWPz9B7e-27" target="lwvj8f8YE6O9QnCj63W--2">
+        <mxCell id="lwvj8f8YE6O9QnCj63W--28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="HOgNb5vJPWKjZWPz9B7e-27" target="lwvj8f8YE6O9QnCj63W--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-27" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Object-Oriented Programming&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="321" y="730" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="720" width="200" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Encapsulation" link="https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/" id="HOgNb5vJPWKjZWPz9B7e-31">
           <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-            <mxGeometry x="81" y="540" width="160" height="200" as="geometry" />
+            <mxGeometry x="81" y="560" width="160" height="200" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-30" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes&quot;&gt;Classes&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="HOgNb5vJPWKjZWPz9B7e-31" vertex="1">
@@ -112,7 +109,7 @@
           <mxGeometry x="30" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-36" value="Inheritance" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="600" y="540" width="160" height="150" as="geometry" />
+          <mxGeometry x="600" y="560" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-37" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces&quot;&gt;Interfaces&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="HOgNb5vJPWKjZWPz9B7e-36" vertex="1">
           <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
@@ -121,7 +118,7 @@
           <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-41" value="Polymorphism" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="600" y="720" width="160" height="200" as="geometry" />
+          <mxGeometry x="600" y="730" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-43" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual&quot;&gt;Virtual&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="HOgNb5vJPWKjZWPz9B7e-41" vertex="1">
           <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
@@ -131,14 +128,6 @@
         </mxCell>
         <mxCell id="HOgNb5vJPWKjZWPz9B7e-42" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/base&quot;&gt;Using Base Classes&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="HOgNb5vJPWKjZWPz9B7e-41" vertex="1">
           <mxGeometry x="30" y="145" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TVtdVuU6rrKW41aySdb2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="TVtdVuU6rrKW41aySdb2-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="1125" />
-              <mxPoint x="280" y="1060" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="TVtdVuU6rrKW41aySdb2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -154,23 +143,29 @@
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="TVtdVuU6rrKW41aySdb2-37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="421.5" y="1299.9999999999998" as="targetPoint" />
+            <mxPoint x="421.5" y="1319.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="TVtdVuU6rrKW41aySdb2-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="TVtdVuU6rrKW41aySdb2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="TVtdVuU6rrKW41aySdb2-2" target="quayTeWEfiAioYH7ORwF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Going Deeper&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1105" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="1125" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-3" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/linq/&quot;&gt;Linq&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="192" y="1040" width="48" height="40" as="geometry" />
+          <mxGeometry x="192" y="1060" width="48" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-5" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers&quot;&gt;Object and Collection Initializers&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1090" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="1110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-12" value="Lambdas" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1145" width="160" height="150" as="geometry" />
+          <mxGeometry x="80" y="1165" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-13" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions&quot;&gt;Arrow Functions&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-12" vertex="1">
           <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
@@ -180,7 +175,7 @@
         </mxCell>
         <UserObject label="Asynchronous &#xa;Programming" link="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/" id="TVtdVuU6rrKW41aySdb2-16">
           <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;startSize=40;" parent="1" vertex="1">
-            <mxGeometry x="598.5" y="960" width="160" height="170" as="geometry" />
+            <mxGeometry x="600" y="1060" width="160" height="170" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="TVtdVuU6rrKW41aySdb2-17" value="Tasks and Threads" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-16" vertex="1">
@@ -190,16 +185,16 @@
           <mxGeometry x="30" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-21" value="Serialization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="598.5" y="1140" width="101" height="40" as="geometry" />
+          <mxGeometry x="600" y="1240" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-22" value="Reflection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="598.5" y="1190" width="91" height="40" as="geometry" />
+          <mxGeometry x="600" y="1290" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-37" target="TVtdVuU6rrKW41aySdb2-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-37" value="&lt;div&gt;.NET&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1460" width="60" height="40" as="geometry" />
+          <mxGeometry x="390" y="1480" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-41" target="TVtdVuU6rrKW41aySdb2-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,14 +204,14 @@
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="TVtdVuU6rrKW41aySdb2-41" target="TVtdVuU6rrKW41aySdb2-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1860" as="targetPoint" />
+            <mxPoint x="420" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-41" value="Understand the Ecosystem" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1620" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="1640" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-49" value="Frameworks" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1564.38" width="180" height="151.25" as="geometry" />
+          <mxGeometry x="60" y="1584.38" width="180" height="151.25" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-40" value=".NET Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-49" vertex="1">
           <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
@@ -225,7 +220,7 @@
           <mxGeometry x="20" y="91.25" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-59" value="Tooling" style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1540" width="150" height="197.5" as="geometry" />
+          <mxGeometry x="600" y="1560" width="150" height="197.5" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-60" value="NuGet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="TVtdVuU6rrKW41aySdb2-59" vertex="1">
           <mxGeometry x="25" y="37.5" width="100" height="40" as="geometry" />
@@ -255,32 +250,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-64" value=".NET (Core) Project Types" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1860" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="1880" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-65" value="Blazor WebAssembly" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1810" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="1830" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-69" value="Minimal Web API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1860" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="1880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-70" value="Web API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1910" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="1930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-71" value="Razor Pages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1810" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="1830" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-72" value="Blazor Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1860" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="1880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TVtdVuU6rrKW41aySdb2-73" value="MVC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1910" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="1930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quayTeWEfiAioYH7ORwF-3" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics&quot;&gt;Generics&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="598.5" y="1240" width="91" height="40" as="geometry" />
+          <mxGeometry x="600" y="1340" width="91" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Access Modifiers" link="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers" id="lwvj8f8YE6O9QnCj63W--2">
           <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="80" y="760" width="160" height="250" as="geometry" />
+            <mxGeometry x="80" y="780" width="160" height="250" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lwvj8f8YE6O9QnCj63W--3" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/public&quot;&gt;Public&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--2">
@@ -295,25 +290,39 @@
         <mxCell id="lwvj8f8YE6O9QnCj63W--7" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected&quot;&gt;Protected&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--2">
           <mxGeometry x="30" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="Variables and&#xa;Data Types" link="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types" id="lwvj8f8YE6O9QnCj63W--13">
-          <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;startSize=40;" vertex="1" parent="1">
-            <mxGeometry x="10" y="180" width="231" height="220" as="geometry" />
+        <UserObject label="Collections" link="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections" id="lwvj8f8YE6O9QnCj63W--36">
+          <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="600" y="130" width="160" height="200" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--14" value="Int" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--13">
-          <mxGeometry x="120" y="60" width="100" height="40" as="geometry" />
+        <mxCell id="lwvj8f8YE6O9QnCj63W--37" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/&quot;&gt;Array&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--36">
+          <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--15" value="String" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--13">
-          <mxGeometry x="10" y="60" width="100" height="40" as="geometry" />
+        <mxCell id="lwvj8f8YE6O9QnCj63W--38" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1&quot;&gt;List&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--36">
+          <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--16" value="Float/Double/Decimal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--13">
-          <mxGeometry x="120" y="110" width="100" height="40" as="geometry" />
+        <mxCell id="lwvj8f8YE6O9QnCj63W--39" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2&quot;&gt;Dictionary&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--36">
+          <mxGeometry x="30" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--17" value="Boolean" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--13">
-          <mxGeometry x="10" y="110" width="100" height="40" as="geometry" />
+        <UserObject label="Variables and Data Types" link="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types" id="lwvj8f8YE6O9QnCj63W--41">
+          <mxCell style="swimlane;rounded=1;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="11" y="190" width="230" height="200" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--14" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types&quot;&gt;Int&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+          <mxGeometry x="120" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lwvj8f8YE6O9QnCj63W--18" value="Var" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--13">
-          <mxGeometry x="10" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="lwvj8f8YE6O9QnCj63W--15" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types&quot;&gt;String&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+          <mxGeometry x="10" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--16" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types&quot;&gt;Float/Double/Decimal&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+          <mxGeometry x="120" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--17" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool&quot;&gt;Boolean&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+          <mxGeometry x="10" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lwvj8f8YE6O9QnCj63W--18" value="&lt;a href=&quot;https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types&quot;&gt;Var&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=14;" vertex="1" parent="lwvj8f8YE6O9QnCj63W--41">
+          <mxGeometry x="10" y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
