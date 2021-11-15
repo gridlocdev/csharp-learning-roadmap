@@ -2,6 +2,10 @@
 
 This document contains a simplified list of concepts to guide new developers through learning the basics of the C# and .NET ecosystem.
 
+## Diagram
+
+![C# and .NET Roadmap Diagram](https://raw.githubusercontent.com/gridlocdev/dotnet-learning-roadmap/main/dotnet-developer-roadmap.drawio.svg)
+
 ## C#
 
 - Learn the Fundamentals
