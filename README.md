@@ -32,6 +32,9 @@ This document contains a simplified list of concepts to guide new developers thr
       - Interfaces
       - Abstract classes
     - [Polymorphism](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
+      - Virtual
+      - Override
+      - Base Constructor
   - [Access Levels](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
     - Public
     - Private
