@@ -4,7 +4,7 @@ This document contains a simplified list of concepts to guide new developers thr
 
 ## Diagram
 
-![C# and .NET Roadmap Diagram](https://raw.githubusercontent.com/gridlocdev/dotnet-learning-roadmap/main/dotnet-developer-roadmap.drawio.svg)
+![C# and .NET Roadmap Diagram](https://raw.githubusercontent.com/gridlocdev/dotnet-learning-roadmap/main/csharp-roadmap.drawio.svg)
 
 ## C#
 
