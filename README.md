@@ -66,6 +66,8 @@ This document contains a simplified list of concepts to guide new developers thr
 
 ## .NET (Web Developer)
 
+> This portion is still in progress! Feel free to suggest any items to add here if I haven't created a roadmap diagram for the below yet.
+
 - Understanding the Ecosystem
   - .NET Framework
   - .NET Standard
