@@ -72,3 +72,13 @@ With a solid understanding of the language features of C#, the .NET ecosystem ha
 - Desktop/Mobile Developer (Xamarin / .NET Maui) : [James Montemagno - Xamarin Tutorial for Beginners - Build iOS & Android Apps with C#, Visual Studio, and Xamarin.Forms](https://www.youtube.com/watch?v=zvp7wvbyceo)
 - Data Engineer (Machine Learning with ML.NET) : [ML.NET Home](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
 - Game Developer (Unity) : [freeCodeCamp.org - Learn Unity - Beginner's Game Development Tutorial](https://www.youtube.com/watch?v=gB1F9G0JXOo)
+
+| Web Developer (.NET Core) | Desktop/Mobile Developer (Xamarin / .NET Maui) |
+|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100px" alt=".NET Core Logo"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Xamarin_logo_and_wordmark.png" width="225px" alt="Xamarin Logo"/> | 
+| [Nick Chapsas - My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=gw-6lKrKlp0) | [James Montemagno - Xamarin Tutorial for Beginners - Build iOS & Android Apps with C#, Visual Studio, and Xamarin.Forms](https://www.youtube.com/watch?v=zvp7wvbyceo) |
+
+| Data Engineer (Machine Learning with ML.NET) | Game Developer (Unity) |
+|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mldotnet.svg" width="100px" alt="ML.NET Logo"/> | <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/ui/ui/unity-logo-darkmode.min.svg" width="175px" alt="Unity Game Engine Logo"/> |
+| [Microsoft - ML.NET Home](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet) | [freeCodeCamp.org - Learn Unity - Beginner's Game Development Tutorial](https://www.youtube.com/watch?v=gB1F9G0JXOo) |
