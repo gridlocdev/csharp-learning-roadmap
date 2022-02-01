@@ -9,7 +9,7 @@ This document contains a simplified list of concepts to guide new developers thr
 ## C#
 
 - Learn the Fundamentals
-  - Basic Syntax
+  - [Basic Syntax](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
   - [Variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables) and [Data Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
     - [String](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
     - [Int](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
@@ -22,11 +22,10 @@ This document contains a simplified list of concepts to guide new developers thr
     - [Array](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
     - [List](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1)
     - [Dictionary](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2)
-  - [Iterators](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)
+  - [Iteration](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/iteration-statements)
   - [Namespaces](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces)
   - [Using directives](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive)
   - [String Interpolation](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
-  - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)
 - Object-Oriented Programming
   - Three Pillars
     - [Encapsulation](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
@@ -46,7 +45,7 @@ This document contains a simplified list of concepts to guide new developers thr
     - [Internal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal)
     - [Protected](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected)
 - Going Deeper
-  - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
+  - [Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)
   - [Object and Collection initializers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers)
   - [Lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
     - ["=>" Operator](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator)
@@ -56,13 +55,14 @@ This document contains a simplified list of concepts to guide new developers thr
     - [Tasks](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
     - [Async](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/async)
     - [Await](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/await)
+  - [Exception Handling](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/exception-handling)
+  - [Linq](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
   - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
+  - Immutability
+    - [Readonly](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/readonly)
+    - [Const](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)
+  - [Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)
   - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
-  - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
-  - (Optional) Functional Techniques
-    - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
-    - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
-    - [Deconstructing Tuples](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct)
 
 ## .NET (Web Developer)
 
