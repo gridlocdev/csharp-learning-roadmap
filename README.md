@@ -64,35 +64,11 @@ This document contains a simplified list of concepts to guide new developers thr
   - [Static](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static)
   - [Serialization](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
 
-## .NET (Web Developer)
+## .NET
 
-> This portion is still in progress! Feel free to suggest any items to add here if I haven't created a roadmap diagram for the below yet.
+With a solid understanding of the language features of C#, the .NET ecosystem has many options for your next path:
 
-- Understanding the Ecosystem
-  - .NET Framework
-  - .NET Standard
-  - .NET (Core)
-- Tooling
-  - [.NET CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/)
-  - NuGet
-- .NET (Core) Web Projects
-  - Blazor WebAssembly
-  - Minimal Web API
-  - Web API
-  - Razor Pages
-  - Blazor Server
-  - MVC
-- Libraries
-  - ORM
-    - Entity Framework, Dapper
-  - Testing
-    - Unit Testing
-      - xUnit, NUnit, MSTest
-    - [Performance Testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests?view=aspnetcore-6.0)
-    - E2E Testing
-      - Selenium
-  - Logging
-    - NLog, Serilog
-  - Other
-    - AutoMapper
-    - Swashbuckle / Swagger
+- Web Developer (.NET Core) : [Nick Chapsas - My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=gw-6lKrKlp0)
+- Desktop/Mobile Developer (Xamarin / .NET Maui) : [James Montemagno - Xamarin Tutorial for Beginners - Build iOS & Android Apps with C#, Visual Studio, and Xamarin.Forms](https://www.youtube.com/watch?v=zvp7wvbyceo)
+- Data Engineer (Machine Learning with ML.NET) : [ML.NET Home](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
+- Game Developer (Unity) : [freeCodeCamp.org - Learn Unity - Beginner's Game Development Tutorial](https://www.youtube.com/watch?v=gB1F9G0JXOo)
