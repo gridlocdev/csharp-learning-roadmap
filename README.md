@@ -1,10 +1,10 @@
 # C# and .NET Roadmap for Beginners
 
-This document contains a simplified list of concepts to guide new developers through learning the basics of the C# and .NET ecosystem.
+This document contains a simplified list of concepts to guide new developers through learning the basics of the C# programming language, and a brief introduction to the .NET ecosystem.
 
 ## Diagram
 
-![C# and .NET Roadmap Diagram](https://raw.githubusercontent.com/gridlocdev/dotnet-learning-roadmap/main/csharp-roadmap.drawio.svg)
+![C# and .NET Roadmap Diagram](https://raw.githubusercontent.com/gridlocdev/csharp-learning-roadmap/main/csharp-roadmap.drawio.svg)
 
 ## C#
 
