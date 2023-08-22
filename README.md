@@ -2,7 +2,7 @@
 
 This diagram provides a simplified list of concepts to guide new developers through learning the basics of the C# programming language.
 
-See the [HTML version]() or [PDF version]() for clickable links on each item.
+See the [HTML version]() or [PDF version](csharp-roadmap.drawio.pdf) for clickable links on each item.
 
 ## Diagram
 
